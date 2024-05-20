@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.ejemplobfilter{
+    filter: invert(1);
+mix-blend-mode: difference;
+
+}
+.esc1_lax{
+    height: 3000px;
+}
+
+h1{
+    @apply text-9xl font-extrabold mb-20 text-center opacity-0;
+ 
+}
+.circ{
+
+}
